@@ -1,7 +1,5 @@
 # Bookstore App
 
-[Live Demo](https://microverse-react-bookstore.herokuapp.com/)
-
 ## Contents
 
 * [About](#about)
@@ -17,6 +15,8 @@
 This project is a simple bookstore app made with React JS, Redux, and deployed with Heroku.
 
 <img src="./public/screenshot.png">
+
+Live Demo](https://microverse-react-bookstore.herokuapp.com/)
 
 ## Features
 
