@@ -1,8 +1,5 @@
 # Bookstore App
 
-![Screenshot](screenshot.png?raw=true "Bookstore App")
-
-
 [Live Demo](https://microverse-react-bookstore.herokuapp.com/)
 
 ## Contents
@@ -11,6 +8,7 @@
 * [Features](#features)
 * [How to install](#install)
 * [Used tools](#tools)
+* [Next features](#next-features)
 * [Authors](#authors)
 
 <a name="about"></a>
@@ -53,6 +51,12 @@ This project was built using these technologies.
 - Webpack
 - HTML
 - CSS3
+
+<a name="next-features"></a>
+## Next Features
+
+- Implement complete reading tracking (tracks how much of the book was read).
+- Impelement estimated time to read book.
 
 <a name="authors"></a>
 ## Authors
